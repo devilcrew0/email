@@ -16,7 +16,7 @@ subject = 'SMTP TEST by devil'
 body = 'Your message'
 
 # Email list
-email_list = ['email1@google.cm', 'email2@google.com']
+email_list = ['email1@google.com', 'email2@google.com']
 
 # Create a message object
 message = MIMEMultipart()
