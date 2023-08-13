@@ -12,7 +12,7 @@ smtp_username = 'Username'
 smtp_password = 'Password'
 
 # Email content
-subject = 'SMTP TEST by devil'
+subject = 'Email sender by devil'
 body = 'Your message'
 
 # Email list
